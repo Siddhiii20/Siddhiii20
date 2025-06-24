@@ -1,0 +1,15 @@
+
+
+<!--
+**Siddhiii20/Siddhiii20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭💫 About Me:
+Hi, I am Siddhi, IT Engineering student with a passion for coding, problem solving and building meaningful projects.
+
+
+ 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddhisali20) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddhi.343.samdhss@gmail.com) 
+
+-->
